@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/xTaqi/Self-Project/issues"
   },
-  "homepage": "https://github.com/xTaqi/Self-Project#readme"
+  "homepage": "https://github.com/xTaqi/Self-Project#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "winston": "^3.17.0"
+  }
 }
